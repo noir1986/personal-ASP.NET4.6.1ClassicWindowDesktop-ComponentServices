@@ -1,0 +1,5 @@
+D:\Works\Git\repository\NoiRLibrary\NoiRLibrary\bin\Debug\NoiRLibrary.dll
+D:\Works\Git\repository\NoiRLibrary\NoiRLibrary\bin\Debug\NoiRLibrary.pdb
+D:\Works\Git\repository\NoiRLibrary\NoiRLibrary\obj\Debug\NoiRLibrary.dll
+D:\Works\Git\repository\NoiRLibrary\NoiRLibrary\obj\Debug\NoiRLibrary.pdb
+D:\Works\Git\repository\NoiRLibrary\NoiRLibrary\bin\Debug\NoiRLibrary.dll.config

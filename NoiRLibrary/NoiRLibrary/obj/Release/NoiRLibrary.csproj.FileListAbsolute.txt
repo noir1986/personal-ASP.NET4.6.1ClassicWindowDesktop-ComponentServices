@@ -1,0 +1,12 @@
+D:\Works\Git\repository\personal-ASP.NET-WindowsClassicDesktop\NoiRLibrary\NoiRLibrary\bin\Release\NoiRLibrary.dll.config
+D:\Works\Git\repository\personal-ASP.NET-WindowsClassicDesktop\NoiRLibrary\NoiRLibrary\bin\Release\NoiRLibrary.dll
+D:\Works\Git\repository\personal-ASP.NET-WindowsClassicDesktop\NoiRLibrary\NoiRLibrary\bin\Release\NoiRLibrary.pdb
+D:\Works\Git\repository\personal-ASP.NET-WindowsClassicDesktop\NoiRLibrary\NoiRLibrary\obj\Release\NoiRLibrary.csprojResolveAssemblyReference.cache
+D:\Works\Git\repository\personal-ASP.NET-WindowsClassicDesktop\NoiRLibrary\NoiRLibrary\obj\Release\NoiRLibrary.dll
+D:\Works\Git\repository\personal-ASP.NET-WindowsClassicDesktop\NoiRLibrary\NoiRLibrary\obj\Release\NoiRLibrary.pdb
+D:\Works\Git\repository\personal-ASP.NET4.5.2ClassicWindowDesktop-ComponentServices\NoiRLibrary\NoiRLibrary\obj\Release\NoiRLibrary.csprojResolveAssemblyReference.cache
+D:\Works\Git\repository\personal-ASP.NET4.5.2ClassicWindowDesktop-ComponentServices\NoiRLibrary\NoiRLibrary\obj\Release\NoiRLibrary.dll
+D:\Works\Git\repository\personal-ASP.NET4.5.2ClassicWindowDesktop-ComponentServices\NoiRLibrary\NoiRLibrary\obj\Release\NoiRLibrary.pdb
+D:\Works\Git\repository\personal-ASP.NET4.5.2ClassicWindowDesktop-ComponentServices\NoiRLibrary\NoiRLibrary\bin\Release\NoiRLibrary.dll.config
+D:\Works\Git\repository\personal-ASP.NET4.5.2ClassicWindowDesktop-ComponentServices\NoiRLibrary\NoiRLibrary\bin\Release\NoiRLibrary.dll
+D:\Works\Git\repository\personal-ASP.NET4.5.2ClassicWindowDesktop-ComponentServices\NoiRLibrary\NoiRLibrary\bin\Release\NoiRLibrary.pdb
